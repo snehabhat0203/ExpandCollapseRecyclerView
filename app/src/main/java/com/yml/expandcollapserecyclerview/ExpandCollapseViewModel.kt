@@ -24,7 +24,7 @@ class ExpandCollapseViewModel : ViewModel(), OnClick<BaseUiData> {
                     stateDrawable = ContextCompat.getDrawable(context, R.drawable.ic_plus_blue)!!,
                     buttonOneActionData = "https://medium.com/@shrutisaxena0617/precision-vs-recall-386cf9f89488",
                     headerTitle = "item ",
-                    buttonOneLabel = "google"
+                    buttonOneLabel = "button"
                 ),
                 PhoneTwoUiData(
                     layoutFile = R.layout.viewholder_result_phone_two,
@@ -42,7 +42,7 @@ class ExpandCollapseViewModel : ViewModel(), OnClick<BaseUiData> {
                     stateDrawable = ContextCompat.getDrawable(context, R.drawable.ic_plus_blue)!!,
                     buttonOneActionData = "https://medium.com/@shrutisaxena0617/precision-vs-recall-386cf9f89488",
                     headerTitle = "item ",
-                    buttonOneLabel = "google"
+                    buttonOneLabel = "button"
                 ),
                 PhoneThreeUiData(
                     layoutFile = R.layout.viewholder_result_phone_three,
@@ -60,7 +60,7 @@ class ExpandCollapseViewModel : ViewModel(), OnClick<BaseUiData> {
                     stateDrawable = ContextCompat.getDrawable(context, R.drawable.ic_plus_blue)!!,
                     buttonOneActionData = "https://medium.com/@shrutisaxena0617/precision-vs-recall-386cf9f89488",
                     headerTitle = "item ",
-                    buttonOneLabel = "google"
+                    buttonOneLabel = "button"
                 ),
                 PhoneThreeUiData(
                     layoutFile = R.layout.viewholder_result_phone_three,
@@ -88,7 +88,7 @@ class ExpandCollapseViewModel : ViewModel(), OnClick<BaseUiData> {
                     stateDrawable = ContextCompat.getDrawable(context, R.drawable.ic_plus_blue)!!,
                     buttonOneActionData = "https://medium.com/@shrutisaxena0617/precision-vs-recall-386cf9f89488",
                     headerTitle = "item ",
-                    buttonOneLabel = "google"
+                    buttonOneLabel = "button"
                 ),
                 PhoneThreeUiData(
                     layoutFile = R.layout.viewholder_result_phone_three,
@@ -107,7 +107,7 @@ class ExpandCollapseViewModel : ViewModel(), OnClick<BaseUiData> {
                     stateDrawable = ContextCompat.getDrawable(context, R.drawable.ic_plus_blue)!!,
                     buttonOneActionData = "https://medium.com/@shrutisaxena0617/precision-vs-recall-386cf9f89488",
                     headerTitle = "item ",
-                    buttonOneLabel = "google"
+                    buttonOneLabel = "button"
                 ),
                 PhoneTwoUiData(
                     layoutFile = R.layout.viewholder_result_phone_two,
